@@ -1,0 +1,5 @@
+(library
+ (name ocamlwm23)
+ (inline_tests)
+ (preprocess (pps ppx_deriving.show ppx_deriving.ord ppx_inline_test))
+ (libraries base stdio graphics))

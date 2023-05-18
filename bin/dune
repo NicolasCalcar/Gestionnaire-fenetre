@@ -1,0 +1,8 @@
+(env
+  (dev
+    (flags (:standard -w -32))))
+
+(executable
+ (public_name ocamlwm23)
+ (name main)
+ (libraries base stdio graphics ocamlwm23))
