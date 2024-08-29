@@ -2,6 +2,11 @@
 
 The section in English below
 
+
+![test](https://github.com/user-attachments/assets/caf05bab-71fd-49c3-bc2d-1344f5df7b3f)
+
+
+
 ## Introduction
 
 Le but de ce projet est de développer une preuve de concept d'un gestionnaire de fenêtres en mosaïque utilisant un arbre pour décrire les fenêtres du bureau. L'objectif principal est de fournir un accès rapide à la fenêtre active en utilisant un zipper d'arbre.
